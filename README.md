@@ -1,0 +1,2 @@
+# Cloudscript
+Playfab cloudscript (.js)
