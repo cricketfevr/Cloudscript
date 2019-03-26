@@ -1,4 +1,4 @@
-// JavaScript source code
+
 handlers.GrantItemsToPlayer = function (args, context) {
     
     var grantPlayersRequest = server.GrantItemsToUser({
