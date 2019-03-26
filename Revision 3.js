@@ -9,8 +9,5 @@ handlers.GrantItemsToPlayer = function (args, context) {
 
     server.GrantItemsToUser(grantPlayersRequest);
 
-    var resultitems = grantPlayersRequest.Item
-
-    var message = "Hello " + currentPlayerId + "!";
 
 }
